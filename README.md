@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AldrichJohne, an associate software engineer.
+- 👋 Hi, I’m @AldrichJohne, a Software Developer.
 - 👀 I’m interested in problem solving and challenges.
 - 🌱 I’m currently learning tools for Application and Web development. 
 - 💞️ I’m looking to collaborate on some real world projects.
